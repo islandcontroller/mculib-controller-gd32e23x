@@ -1,0 +1,34 @@
+/*!*****************************************************************************
+ * @file 
+ * gd32e23x_conf.h
+ * 
+ * @brief
+ * Run-Time Environment configuration
+ * 
+ * @date  11.11.2025
+ ******************************************************************************/
+
+#ifndef GD32E23X_CONF_H_
+#define GD32E23X_CONF_H_
+
+// #define RTE_DEVICE_STDPERIPHERALS_ADC
+// #define RTE_DEVICE_STDPERIPHERALS_CMP
+// #define RTE_DEVICE_STDPERIPHERALS_CRC
+// #define RTE_DEVICE_STDPERIPHERALS_DBG
+// #define RTE_DEVICE_STDPERIPHERALS_DMA
+// #define RTE_DEVICE_STDPERIPHERALS_EXTI
+// #define RTE_DEVICE_STDPERIPHERALS_FMC
+// #define RTE_DEVICE_STDPERIPHERALS_FWDGT
+// #define RTE_DEVICE_STDPERIPHERALS_GPIO
+// #define RTE_DEVICE_STDPERIPHERALS_I2C
+// #define RTE_DEVICE_STDPERIPHERALS_MISC
+// #define RTE_DEVICE_STDPERIPHERALS_PMU
+// #define RTE_DEVICE_STDPERIPHERALS_RCU
+// #define RTE_DEVICE_STDPERIPHERALS_RTC
+// #define RTE_DEVICE_STDPERIPHERALS_SPI
+// #define RTE_DEVICE_STDPERIPHERALS_SYSCFG
+// #define RTE_DEVICE_STDPERIPHERALS_TIMER
+// #define RTE_DEVICE_STDPERIPHERALS_USART
+// #define RTE_DEVICE_STDPERIPHERALS_WWDGT
+
+#endif // GD32E23X_CONF_H_
